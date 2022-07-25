@@ -1,9 +1,14 @@
 <img align="right" alt="Coding" width="100%" src="https://www.simform.com/wp-content/uploads/2019/09/custom-software-banner@2x-1024x429.png">
 <h1 align="center">Hey  👋 , I'm Salahu</h1>
 <h3 align="center">A passionate Flutter developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<br>
+<br>
+<img  align="right" alt="Coding" width="500" src="https://www.sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salahu01&label=Profile%20views&color=0e75b6&style=flat" alt="salahu01" /> </p>
+<br>
+<br>
+<br>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
