@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Flutter developer</h3>
 <br>
 <br>
-<img  align="right" alt="Coding" width="500" src="https://www.sithcomputers.com/wp-content/uploads/2021/02/Full-Stack-Developer-1.gif">
+<img  align="right" alt="Coding" width="500" src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salahu01&label=Profile%20views&color=0e75b6&style=flat" alt="salahu01" /> </p>
 <br>
