@@ -1,3 +1,4 @@
+<img align="right" alt="Coding" width="100%" src="https://www.simform.com/wp-content/uploads/2019/09/custom-software-banner@2x-1024x429.png">
 <h1 align="center">Hey  👋 , I'm Salahu</h1>
 <h3 align="center">A passionate Flutter developer</h3>
 <br>
