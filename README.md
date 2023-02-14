@@ -41,7 +41,6 @@
 
 ## 💼 Hire Me
 
-#### Contact
-##### Phone : +91 8590811546
-##### Mail : cvsalahu12@gmail.com
+#### 📞 : +91 8590811546
+#### 📨 : cvsalahu12@gmail.com
 
