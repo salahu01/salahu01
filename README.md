@@ -1,4 +1,4 @@
-# 💫 About Me :
+## 💫 About Me
 - 😄 Pronouns: He/His
 - 🔭 R&D at [Fegno Technologies](https://fegno.com), building macOS apps, Android tools and websites.
 - 🌱 Currently exploring Swift, 3D on the web and motion design.
