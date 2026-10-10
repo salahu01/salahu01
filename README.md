@@ -12,6 +12,11 @@
     <td><a href="https://mediashift.app">Site</a></td>
   </tr>
   <tr>
+    <td><a href="https://salahu01.github.io/unadly/"><img src="assets/logos/unadly.png" width="24" height="24" align="center" alt="Unadly logo"></a>&nbsp;<b><a href="https://salahu01.github.io/unadly/">Unadly</a></b></td>
+    <td>Mac browser that blocks ads before they load</td>
+    <td><a href="https://salahu01.github.io/unadly/">Site</a> · <a href="https://github.com/salahu01/unadly-macos">Code</a></td>
+  </tr>
+  <tr>
     <td><a href="https://salahu01.github.io/pawse/"><img src="assets/logos/pawse.png" width="24" height="24" align="center" alt="Pawse logo"></a>&nbsp;<b><a href="https://salahu01.github.io/pawse/">Pawse</a></b></td>
     <td>3D desktop pet for Mac: water, habits, breaks</td>
     <td><a href="https://salahu01.github.io/pawse/">Site</a> · <a href="https://github.com/salahu01/pawse-app">Code</a></td>
