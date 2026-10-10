@@ -6,7 +6,6 @@
 
 ## 🛠️ My Builds
 <table>
-  <tr><th align="left">Product</th><th align="left">What it is</th><th align="left">Links</th></tr>
   <tr>
     <td><a href="https://mediashift.app"><img src="assets/logos/mediashift.svg" width="24" height="24" align="center" alt="MediaShift logo"></a>&nbsp;<b><a href="https://mediashift.app">MediaShift</a></b></td>
     <td>In-browser media converter (ffmpeg.wasm)</td>
