@@ -4,12 +4,25 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 🔭 I’m currently building [Frontier](https://frontier.xyz/).
-- 🌱 I’m currently learning more about Frotend development.
+- 🔭 R&D at [Fegno Technologies](https://fegno.com), building macOS apps, Android tools and websites.
+- 🌱 Currently exploring Swift, 3D on the web and motion design.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
 
+## 🚀 Live Websites
+| Site | What it is |
+|---|---|
+| [swalahu.com](https://swalahu.com) | Personal website |
+| [3D Portfolio](https://salahu01.github.io) | A walkable 3D developer room. Click the framed screens to open my projects |
+| [Pawse](https://salahu01.github.io/pawse/) | Cute 3D pet for Mac that reminds you to drink water, keep habits and take breaks |
+| [LiveWall](https://salahu01.github.io/livewall/) | Live video wallpaper for macOS that costs almost nothing when you aren't looking |
+| [Globber](https://salahu01.github.io/globber/) | Private, offline pattern-matching call blocker for Android |
+| [Quietfolio](https://salahu01.github.io/quietfolio/) | Motion-graphic showcase for my portfolio template ([template](https://salahu01.github.io/quietfolio-template/)) |
+| [Fegno Journey](https://salahu01.github.io/fegno-journey/) | Scrollytelling timeline of three years at Fegno: 3,948 commits across 31 repos |
+| [Glint](https://github.com/salahu01/glint/releases/latest) | Always-on-top macOS clock that flashes when the minute or hour changes |
+
 ## 🌐 Socials
+[![Website](https://img.shields.io/badge/swalahu.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://swalahu.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swalahu._/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salahu-cv-a98196230)
 
@@ -31,13 +44,14 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-
-## 🛒 Apps on Store
-[![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)]() [![AppStore](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)]()
 
 <!-- ## 💼 Hire Me
 
