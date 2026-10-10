@@ -6,46 +6,46 @@
 
 ## 🛠️ My Builds
 <table>
-  <tr><th align="center">Product</th><th align="left">What it is</th><th align="left">Links</th></tr>
+  <tr><th align="left">Product</th><th align="left">What it is</th><th align="left">Links</th></tr>
   <tr>
-    <td align="center" width="140"><a href="https://mediashift.app"><img src="assets/logos/mediashift.svg" width="56" height="56" alt="MediaShift logo"></a><br><b><a href="https://mediashift.app">MediaShift</a></b></td>
-    <td>Free in-browser video, audio and image converter powered by ffmpeg.wasm. Files never leave your device</td>
-    <td><a href="https://mediashift.app">🌐&nbsp;mediashift.app</a></td>
+    <td><a href="https://mediashift.app"><img src="assets/logos/mediashift.svg" width="24" height="24" align="center" alt="MediaShift logo"></a>&nbsp;<b><a href="https://mediashift.app">MediaShift</a></b></td>
+    <td>In-browser media converter (ffmpeg.wasm)</td>
+    <td><a href="https://mediashift.app">Site</a></td>
   </tr>
   <tr>
-    <td align="center" width="140"><a href="https://salahu01.github.io/pawse/"><img src="assets/logos/pawse.png" width="56" height="56" alt="Pawse logo"></a><br><b><a href="https://salahu01.github.io/pawse/">Pawse</a></b></td>
-    <td>Cute 3D pet for Mac that reminds you to drink water, keep habits and take breaks</td>
-    <td><a href="https://salahu01.github.io/pawse/">🌐&nbsp;Website</a><br><a href="https://github.com/salahu01/pawse-app">💻&nbsp;Source</a></td>
+    <td><a href="https://salahu01.github.io/pawse/"><img src="assets/logos/pawse.png" width="24" height="24" align="center" alt="Pawse logo"></a>&nbsp;<b><a href="https://salahu01.github.io/pawse/">Pawse</a></b></td>
+    <td>3D desktop pet for Mac: water, habits, breaks</td>
+    <td><a href="https://salahu01.github.io/pawse/">Site</a> · <a href="https://github.com/salahu01/pawse-app">Code</a></td>
   </tr>
   <tr>
-    <td align="center" width="140"><a href="https://salahu01.github.io/livewall/"><img src="assets/logos/livewall.png" width="56" height="56" alt="LiveWall logo"></a><br><b><a href="https://salahu01.github.io/livewall/">LiveWall</a></b></td>
-    <td>Live video wallpaper for macOS that costs almost nothing when you aren't looking</td>
-    <td><a href="https://salahu01.github.io/livewall/">🌐&nbsp;Website</a><br><a href="https://github.com/salahu01/livewall-app">💻&nbsp;Source</a></td>
+    <td><a href="https://salahu01.github.io/livewall/"><img src="assets/logos/livewall.png" width="24" height="24" align="center" alt="LiveWall logo"></a>&nbsp;<b><a href="https://salahu01.github.io/livewall/">LiveWall</a></b></td>
+    <td>Low-power live video wallpaper for macOS</td>
+    <td><a href="https://salahu01.github.io/livewall/">Site</a> · <a href="https://github.com/salahu01/livewall-app">Code</a></td>
   </tr>
   <tr>
-    <td align="center" width="140"><a href="https://salahu01.github.io/globber/"><img src="assets/logos/globber.svg" width="56" height="56" alt="Globber logo"></a><br><b><a href="https://salahu01.github.io/globber/">Globber</a></b></td>
-    <td>Private, offline pattern-matching call blocker for Android</td>
-    <td><a href="https://salahu01.github.io/globber/">🌐&nbsp;Website</a><br><a href="https://github.com/salahu01/globber-app">💻&nbsp;Source</a></td>
+    <td><a href="https://salahu01.github.io/globber/"><img src="assets/logos/globber.svg" width="24" height="24" align="center" alt="Globber logo"></a>&nbsp;<b><a href="https://salahu01.github.io/globber/">Globber</a></b></td>
+    <td>Offline pattern-matching call blocker for Android</td>
+    <td><a href="https://salahu01.github.io/globber/">Site</a> · <a href="https://github.com/salahu01/globber-app">Code</a></td>
   </tr>
   <tr>
-    <td align="center" width="140"><a href="https://github.com/salahu01/glint/releases/latest"><img src="assets/logos/glint.png" width="56" height="56" alt="Glint logo"></a><br><b><a href="https://github.com/salahu01/glint/releases/latest">Glint</a></b></td>
-    <td>Always-on-top macOS clock that flashes when the minute or hour changes</td>
-    <td><a href="https://github.com/salahu01/glint/releases/latest">🌐&nbsp;Download</a><br><a href="https://github.com/salahu01/glint">💻&nbsp;Source</a></td>
+    <td><a href="https://github.com/salahu01/glint/releases/latest"><img src="assets/logos/glint.png" width="24" height="24" align="center" alt="Glint logo"></a>&nbsp;<b><a href="https://github.com/salahu01/glint/releases/latest">Glint</a></b></td>
+    <td>Always-on-top time-awareness clock for macOS</td>
+    <td><a href="https://github.com/salahu01/glint/releases/latest">Download</a> · <a href="https://github.com/salahu01/glint">Code</a></td>
   </tr>
   <tr>
-    <td align="center" width="140"><a href="https://salahu01.github.io/quietfolio/"><img src="assets/logos/quietfolio-template.png" width="56" height="56" alt="Quietfolio logo"></a><br><b><a href="https://salahu01.github.io/quietfolio/">Quietfolio</a></b></td>
-    <td>Minimal, fast, SEO-first developer portfolio template (<a href="https://salahu01.github.io/quietfolio-template/">live demo</a>)</td>
-    <td><a href="https://salahu01.github.io/quietfolio/">🌐&nbsp;Showcase</a><br><a href="https://github.com/salahu01/quietfolio-template">💻&nbsp;Source</a></td>
+    <td><a href="https://salahu01.github.io/quietfolio/"><img src="assets/logos/quietfolio-template.png" width="24" height="24" align="center" alt="Quietfolio logo"></a>&nbsp;<b><a href="https://salahu01.github.io/quietfolio/">Quietfolio</a></b></td>
+    <td>Minimal, SEO-first portfolio template</td>
+    <td><a href="https://salahu01.github.io/quietfolio/">Site</a> · <a href="https://github.com/salahu01/quietfolio-template">Code</a></td>
   </tr>
   <tr>
-    <td align="center" width="140"><a href="https://salahu01.github.io"><img src="assets/logos/portfolio.png" width="56" height="56" alt="3D Portfolio logo"></a><br><b><a href="https://salahu01.github.io">3D Portfolio</a></b></td>
-    <td>A walkable 3D developer room. Click the framed screens to open my projects</td>
-    <td><a href="https://salahu01.github.io">🌐&nbsp;Website</a><br><a href="https://github.com/salahu01/salahu01.github.io">💻&nbsp;Source</a></td>
+    <td><a href="https://salahu01.github.io"><img src="assets/logos/portfolio.png" width="24" height="24" align="center" alt="3D Portfolio logo"></a>&nbsp;<b><a href="https://salahu01.github.io">3D Portfolio</a></b></td>
+    <td>Walkable 3D developer room portfolio</td>
+    <td><a href="https://salahu01.github.io">Site</a> · <a href="https://github.com/salahu01/salahu01.github.io">Code</a></td>
   </tr>
   <tr>
-    <td align="center" width="140"><a href="https://salahu01.github.io/fegno-journey/"><img src="assets/logos/fegno-journey.svg" width="56" height="56" alt="Fegno Journey logo"></a><br><b><a href="https://salahu01.github.io/fegno-journey/">Fegno Journey</a></b></td>
-    <td>Scrollytelling timeline of three years at Fegno: 3,948 commits across 31 repos</td>
-    <td><a href="https://salahu01.github.io/fegno-journey/">🌐&nbsp;Website</a><br><a href="https://github.com/salahu01/fegno-journey">💻&nbsp;Source</a></td>
+    <td><a href="https://salahu01.github.io/fegno-journey/"><img src="assets/logos/fegno-journey.svg" width="24" height="24" align="center" alt="Fegno Journey logo"></a>&nbsp;<b><a href="https://salahu01.github.io/fegno-journey/">Fegno Journey</a></b></td>
+    <td>Scrollytelling timeline of 3 years at Fegno</td>
+    <td><a href="https://salahu01.github.io/fegno-journey/">Site</a> · <a href="https://github.com/salahu01/fegno-journey">Code</a></td>
   </tr>
 </table>
 
