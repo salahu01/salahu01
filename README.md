@@ -12,7 +12,6 @@
 ## 🚀 Live Websites
 | Site | What it is |
 |---|---|
-| [swalahu.com](https://swalahu.com) | Personal website |
 | [3D Portfolio](https://salahu01.github.io) | A walkable 3D developer room. Click the framed screens to open my projects |
 | [Pawse](https://salahu01.github.io/pawse/) | Cute 3D pet for Mac that reminds you to drink water, keep habits and take breaks |
 | [LiveWall](https://salahu01.github.io/livewall/) | Live video wallpaper for macOS that costs almost nothing when you aren't looking |
@@ -22,7 +21,6 @@
 | [Glint](https://github.com/salahu01/glint/releases/latest) | Always-on-top macOS clock that flashes when the minute or hour changes |
 
 ## 🌐 Socials
-[![Website](https://img.shields.io/badge/swalahu.com-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://swalahu.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swalahu._/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salahu-cv-a98196230)
 
