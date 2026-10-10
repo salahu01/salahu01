@@ -1,7 +1,5 @@
 <h1 align="center"> Hey 👋, I'm Salahu</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salahu01&label=Views&color=blue&style=plastic&style=for-the-badge" alt="salahu01" /> </p>
-
 # 💫 About Me :
 - 😄 Pronouns: He/His
 - 🔭 R&D at [Fegno Technologies](https://fegno.com), building macOS apps, Android tools and websites.
