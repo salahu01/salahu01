@@ -1,5 +1,5 @@
 ## 💫 About Me
-- 🔭 R&D at [Fegno Technologies](https://fegno.com), building macOS apps, Android tools and websites.
+- 🔭 Software Engineer at [Fegno Technologies](https://fegno.com), building macOS apps, Android tools and websites.
 - 🌱 Currently exploring Swift, 3D on the web and motion design.
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
