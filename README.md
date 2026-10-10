@@ -1,5 +1,3 @@
-<h1 align="center"> Hey 👋, I'm Salahu</h1>
-
 # 💫 About Me :
 - 😄 Pronouns: He/His
 - 🔭 R&D at [Fegno Technologies](https://fegno.com), building macOS apps, Android tools and websites.
