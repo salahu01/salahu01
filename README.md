@@ -27,9 +27,9 @@
     <td><a href="https://salahu01.github.io/globber/">Site</a> · <a href="https://github.com/salahu01/globber-app">Code</a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/salahu01/glint/releases/latest"><img src="assets/logos/glint.png" width="24" height="24" align="center" alt="Glint logo"></a>&nbsp;<b><a href="https://github.com/salahu01/glint/releases/latest">Glint</a></b></td>
+    <td><a href="https://salahu01.github.io/glint/"><img src="assets/logos/glint.png" width="24" height="24" align="center" alt="Glint logo"></a>&nbsp;<b><a href="https://salahu01.github.io/glint/">Glint</a></b></td>
     <td>Always-on-top time-awareness clock for macOS</td>
-    <td><a href="https://github.com/salahu01/glint/releases/latest">Download</a> · <a href="https://github.com/salahu01/glint">Code</a></td>
+    <td><a href="https://salahu01.github.io/glint/">Site</a> · <a href="https://github.com/salahu01/glint-app">Code</a></td>
   </tr>
   <tr>
     <td><a href="https://salahu01.github.io/quietfolio/"><img src="assets/logos/quietfolio-template.png" width="24" height="24" align="center" alt="Quietfolio logo"></a>&nbsp;<b><a href="https://salahu01.github.io/quietfolio/">Quietfolio</a></b></td>
