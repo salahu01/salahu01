@@ -54,15 +54,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/swalahu._/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salahu-cv-a98196230)
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=salahu01&show_icons=true&locale=en" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=salahu01&show_icons=true&locale=en&layout=compact" alt="Top languages" />
-</p>
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=salahu01" alt="GitHub streak" />
-</p>
-
 <!-- ## 💼 Hire Me
 
 #### 📞 : +91 8590811546
